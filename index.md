@@ -43,4 +43,4 @@ This Americas Corporate Strategy begins by focusing on Nissan’s most urgent ga
 
 The path forward will not be solved by one initiative alone. It requires **systemic alignment** — from product to powertrain, from governance to customer experience. But success starts with this document: a structured strategy, written in plain language, anchored in facts and voices from across the business, and designed to serve as a **living reference for the next five years**.
 
-[[Methodology]]
+[Methodology] (Methodology.md)
