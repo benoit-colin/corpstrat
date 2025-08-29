@@ -11,9 +11,6 @@ We applied a **dual-track methodology**, combining:
 - **Business Discovery** → 120+ interviews with leaders and staff across functions (Product, PMO, Sales, Manufacturing, Finance, Treasury, HR, Marketing, Dealer Network, Design, R&D, Purchasing, Field force).
     
 - **Data & Document Analysis** → review of financial results, Re:Nissan, CEO and Executive updates, and operational reports.
-    
-
-![[Pasted image 20250829104212.png]]
 
 This ensured a balance of **qualitative insights (culture, governance, execution barriers)** and **quantitative evidence (profitability, cost, volume, tariffs)**.
 
@@ -75,4 +72,3 @@ The result is a **living strategy document**, structured for:
 
 ---
 
-[[1. Profitability (Mass Profit & Revenue Focus)]]
